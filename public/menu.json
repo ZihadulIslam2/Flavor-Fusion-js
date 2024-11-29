@@ -1,0 +1,87 @@
+[
+  {
+    "_id": 1,
+    "foodName": "Beef",
+    "details": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eaten...",
+    "foodPicture": "https://www.themealdb.com/images/category/beef.png"
+  },
+  {
+    "_id": 2,
+    "foodName": "Chicken",
+    "details": "Chicken is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most co...",
+    "foodPicture": "https://www.themealdb.com/images/category/chicken.png"
+  },
+  {
+    "_id": 3,
+    "foodName": "Dessert",
+    "details": "Dessert is a course that concludes a meal. The course usually consists of sweet foods, such as confe...",
+    "foodPicture": "https://www.themealdb.com/images/category/dessert.png"
+  },
+  {
+    "_id": 4,
+    "foodName": "Lamb",
+    "details": "Lamb, hogged, and mutton are the meat of domestic sheep (species Ovis aries) at different ages. A...",
+    "foodPicture": "https://www.themealdb.com/images/category/lamb.png"
+  },
+  {
+    "_id": 5,
+    "foodName": "Miscellaneous",
+    "details": "General foods that don't fit into another category",
+    "foodPicture": "https://www.themealdb.com/images/category/miscellaneous.png"
+  },
+  {
+    "_id": 6,
+    "foodName": "Pasta",
+    "details": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Si...",
+    "foodPicture": "https://www.themealdb.com/images/category/miscellaneous.png"
+  },
+  {
+    "_id": 7,
+    "foodName": "Pork",
+    "details": "Pork is the culinary name for meat from a domestic pig (Sus scrofa domesticus). It is the most commo...",
+    "foodPicture": "https://www.themealdb.com/images/category/pork.png"
+  },
+  {
+    "_id": 8,
+    "foodName": "Seafood",
+    "details": "Seafood is any form of sea life regarded as food by humans. Seafood prominently includes fish and sh...",
+    "foodPicture": "https://www.themealdb.com/images/category/seafood.png"
+  },
+  {
+    "_id": 9,
+    "foodName": "Side",
+    "details": "A side dish, sometimes referred to as a side order, side item, or simply a side, is a food item that...",
+    "foodPicture": "https://www.themealdb.com/images/category/side.png"
+  },
+  {
+    "_id": 10,
+    "foodName": "Starter",
+    "details": "An entrée in modern French table service and that of much of the English-speaking world (apart from ...",
+    "foodPicture": "https://www.themealdb.com/images/category/starter.png"
+  },
+  {
+    "_id": 11,
+    "foodName": "Vegan",
+    "details": "Veganism is both the practice of abstaining from the use of animal products, particularly in diet, a...",
+    "foodPicture": "https://www.themealdb.com/images/category/vegan.png"
+  },
+  {
+    "_id": 12,
+    "foodName": "Vegetarian",
+    "details": "Vegetarianism is the practice of abstaining from the consumption of meat (red meat, poultry, seafood...",
+    "foodPicture": "https://www.themealdb.com/images/category/vegan.png"
+  },
+  {
+    "_id": 13,
+    "foodName": "Breakfast",
+    "details": "Breakfast is the first meal of a day. The word in English refers to breaking the fasting period of t...",
+    "foodPicture": "https://www.themealdb.com/images/category/breakfast.png"
+  },
+
+  {
+    "_id": 14,
+    "foodName": "Goat",
+    "details": "The domestic goat or simply goat (Capra aegagrus hircus) is a subspecies of C. aegagrus domesticated...",
+    "foodPicture": "https://www.themealdb.com/images/category/goat.png"
+  }
+]
