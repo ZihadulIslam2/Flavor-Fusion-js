@@ -1,17 +1,17 @@
 const SpecialDish = () => {
   return (
-    <div className="mt-32 flex flex-col md:flex-row justify-evenly ">
+    <div className="mt-32 flex flex-col md:flex-row justify-evenly  ">
       <div>
         <img
-          className="max-h-[70%]"
+          className="max-h-[80%]"
           src="assets/special-dish-banner.jpg"
           alt="special-dish-banner"
         />
       </div>
-      <div>
+      <div className=" mt-10 text-center md:text-left flex flex-col md:mr-40">
         <div>
           <img src="" alt="" />
-          <p className="mt-32 text-primary text-2xl">SPECIAL DISH</p>
+          <p className=" text-primary text-2xl">SPECIAL DISH</p>
         </div>
         <div>
           <h1 className="mt-16 text-4xl text-red-700 md:text-5xl">

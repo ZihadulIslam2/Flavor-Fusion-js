@@ -8,8 +8,8 @@ const Reservation = () => {
             Online Reservation
           </h2>
           <p className="text-gray-400">
-            Booking request{' '}
-            <span className="text-yellow-400 font-bold">01300318906</span>
+            Booking request
+            {/* <span className="text-yellow-400 font-bold">01300318906</span> */}
           </p>
           <p className="text-gray-400">or fill out the order form</p>
         </div>
@@ -60,7 +60,6 @@ const Reservation = () => {
           Dinner Time <br /> Monday to Sunday 5 PM - 10 PM
         </p>
       </div>
-      )
     </div>
   )
 }

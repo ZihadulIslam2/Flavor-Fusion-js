@@ -13,7 +13,7 @@ const Story = () => {
         </h1>
         <p className="mt-16 text-2xl  text-white">
           We have started our restaurant since 10 years ago till now our
-          <br /> first priority is quality we appritiate your valuable time and{' '}
+          <br /> first priority is quality we appritiate your valuable time and
           <br />
           your opinion we can proudly say that for our customer we can <br />
           do anything!!

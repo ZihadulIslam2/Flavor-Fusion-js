@@ -12,7 +12,7 @@ const SignUp = () => {
           />
         </div>
         {/* Heading */}
-        <h1 className="text-3xl text-yellow-400 font-semibold mb-8">Login</h1>
+        <h1 className="text-3xl text-yellow-400 font-semibold mb-8">Sign Up</h1>
 
         {/* Input Fields */}
         <div className="space-y-4">
@@ -24,6 +24,11 @@ const SignUp = () => {
           <input
             type="email"
             placeholder="Your Email"
+            className="w-full px-4 py-2 border border-yellow-500 rounded bg-black text-white focus:outline-none"
+          />
+          <input
+            type="number"
+            placeholder="Your Phone Number"
             className="w-full px-4 py-2 border border-yellow-500 rounded bg-black text-white focus:outline-none"
           />
           <input
